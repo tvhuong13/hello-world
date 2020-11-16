@@ -1,2 +1,4 @@
 # hello-world
-tạo github đầu tiên
+hi humans!
+Hubot here, I like Vietnamese people very much.
+Because they are so friendly and affectionate.  
