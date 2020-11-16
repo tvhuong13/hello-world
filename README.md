@@ -1,4 +1,4 @@
 # hello-world
 hi humans!
-Hubot here, I like Vietnamese people very much.
+Hubot here, I really like Vietnamese people
 Because they are so friendly and affectionate.  
